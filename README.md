@@ -1,5 +1,5 @@
 # google-ads-portfolio
-My portfolio showcasing Google Ads case studies, scripts, tracking guides, and templates.
+My portfolio showcases Google Ads case studies, scripts, tracking guides, and templates.
 
 # Google Ads Portfolio
 
@@ -33,6 +33,7 @@ I’m a **Google Ads & Data-Driven Marketing Expert** specializing in:
 - **Tracking** → GTM & GA4 setup guides  
 - **Templates** → Checklists & ad copy frameworks  
 
-💡 Connect with me: [[LinkedIn])](#) | [Calendly](#)
+💡 (💡 Connect with me: [LinkedIn](https://www.linkedin.com/in/moniraakter89/) | [Calendly](https://calendly.com/monira679akter/30min)
+) 
 )]
 
