@@ -1,4 +1,5 @@
 // Google Ads Script: Budget Monitoring
+<script>
 function main() {
   var campaigns = AdsApp.campaigns()
     .withCondition("Status = ENABLED")
@@ -12,3 +13,4 @@ function main() {
     }
   }
 }
+  </script>
